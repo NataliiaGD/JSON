@@ -2,13 +2,13 @@
   {
     "ID": "001"
     "Tittle": "Contacts button doesn't respond"
-    "Pre-conditions": "Authorised on www.site.com"
-    "Steps": "1.Press on three dots menu
+     "Pre-conditions": "Authorised on www.site.com"
+     "Steps": "1.Press on three dots menu
               2.Scroll down
               3.Press on button "Contacts" "
-    "Actual result": "Contacts button doesn't respont"
-    "Expected result": "Contacts of the company has to appear"
-    "Attachments": "Screenshots attached"
-    "Severity": "Medium"
+     "Actual result": "Contacts button doesn't respont"
+     "Expected result": "Contacts of the company has to appear"
+     "Attachments": "Screenshots attached"
+      "Severity": "Medium"
   }
 ]
